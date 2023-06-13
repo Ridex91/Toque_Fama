@@ -3,7 +3,6 @@ Toque y fama es un juego que consiste en adivinar la secuencia numérica aleator
 
 Toque: Adivinaste el número y no su posición.
 
-
 Fama: Adivinaste el número y su posición.
 
 Para completar el juego necesitarás conseguir la cantidad de famas correspondientes al largo que definiste.
